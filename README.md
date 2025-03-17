@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this challenge, you will leverage SparkSQL to analyze home sales data by computing key metrics. You will also work with Spark's features to create temporary views, partition data, cache and uncache tables, and verify the uncaching process.
+In this challenge, we will leverage SparkSQL to analyze home sales data by computing key metrics. We will also work with Spark's features to create temporary views, partition data, cache and uncache tables, and verify the uncaching process.
 
 ## Objectives
 
